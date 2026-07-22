@@ -27,4 +27,4 @@ This dashboard helps Kezman Superstore:
 ## About the Client
 Project completed for Kezman Superstore as part of a freelance business analytics engagement.
 
-##Connect with me: isaacayeni225@gmail.com
+## Connect with me: isaacayeni225@gmail.com
